@@ -1,0 +1,12 @@
+names:
+- milo
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: milo_test
+  url: https://universe.roboflow.com/utm-gfonq/milo_test/dataset/1
+  version: 1
+  workspace: utm-gfonq
+test: ../test/images
+train: milo_test-1/train/images
+val: milo_test-1/valid/images
